@@ -1,1 +1,10 @@
-{"versionCode": 15, "versionName": "1.14", "apkUrl": "https://github.com/nipaagent/sonic-browser/releases/download/v1.14/SonicBrowser.apk", "notes": "Fix: the address-bar text was clipped and unreadable — now fully visible, centered in the pill.", "force": false}
+{
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/nipaagent/sonic-browser/releases/download/v1.15/SonicBrowser.apk",
+  "notes": "New: optional Google sign-in in the menu — sign in to sync your bookmarks across devices. Browsing works fully without an account."
+}
+
+
+
+
