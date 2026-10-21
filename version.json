@@ -1,1 +1,1 @@
-{"versionCode": 14, "versionName": "1.13", "apkUrl": "https://github.com/nipaagent/sonic-browser/releases/download/v1.13/SonicBrowser.apk", "notes": "Stronger ad blocking (108,819 rules + YouTube ad skipper), push notifications for updates, clearer centered address bar, slimmer home search box.", "force": false}
+{"versionCode": 15, "versionName": "1.14", "apkUrl": "https://github.com/nipaagent/sonic-browser/releases/download/v1.14/SonicBrowser.apk", "notes": "Fix: the address-bar text was clipped and unreadable — now fully visible, centered in the pill.", "force": false}
