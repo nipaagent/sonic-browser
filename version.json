@@ -1,10 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/nipaagent/sonic-browser/releases/download/v1.15/SonicBrowser.apk",
-  "notes": "New: optional Google sign-in in the menu — sign in to sync your bookmarks across devices. Browsing works fully without an account."
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/nipaagent/sonic-browser/releases/download/v1.16/SonicBrowser.apk",
+  "notes": "New: website auto-login — sign in on a site once, Sonic can save it (encrypted on your phone) and fill it in automatically next time. See Settings > Website auto-login."
 }
-
-
-
-
